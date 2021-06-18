@@ -736,9 +736,9 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     z-index: 3;
 }
 .main .logo.cursive{
-    font-family: 'Arial',cursive;
+    font-family: 'futura';
     font-size: 82px;
-
+/*    font-weight: bold;*/
 }
 .main .content{
     position: relative;
