@@ -18,3 +18,4 @@ Quick start options:
 - Clone the repo: `git clone https://github.com/creativetimofficial/coming-sssoon-page.git`.
 
 ```
+# splash-page
